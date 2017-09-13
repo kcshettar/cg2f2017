@@ -14,6 +14,7 @@
 - Week 1: ~~(Due : 13-sep-2017)~~
   - Kiran Shettar, Week 1, 13-sep-2017, #1
   - Kiran Shettar, Week 1, 13-sep-2017, #2 
+  - Interesting Topics
 - Week 2: (Due : 20-sep-2017)
   - Kiran Shettar, Week 2, 20-sep-2017, #1
   - Kiran Shettar, Week 2, 20-sep-2017, #2
