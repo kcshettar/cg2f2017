@@ -11,9 +11,8 @@
 - Week 1:
   - Kiran Shettar, Week 1, 13-sep-2017, #1
   - Kiran Shettar, Week 1, 13-sep-2017, #2 
-
 - Week 2:
   - 
   - 
-  
+
 > Author : [Kiran Shettar](https://www.cs.uml.edu/~kshettar)
