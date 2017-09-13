@@ -1,2 +1,7 @@
 # ComputerGraphics2-COMP5470F2017
-Project, Papers &amp; Weekly Bibliography Summaries
+## Project
+## Papers 
+## Presentation
+## Weekly Bibliography Summaries
+
+Author : [Kiran Shettar](https://www.cs.uml.edu/~kshettar)
