@@ -9,7 +9,6 @@
 - Paper 2
   - Title & Short Abstract (Due : 24-oct-2017)
   - Complete Paper (Due : 28-nov-2017)
-- Yet to be Added
 ## Presentation (In Class)
 - Yet to be Added
 ## Weekly Bibliography Summaries
@@ -17,9 +16,12 @@
   - Kiran Shettar, Week 1, 13-sep-2017, #1
   - Kiran Shettar, Week 1, 13-sep-2017, #2 
   - Interesting Topics
-- Week 2: (Due : 20-sep-2017)
+- Week 2: ~~(Due : 20-sep-2017)~~
   - Kiran Shettar, Week 2, 20-sep-2017, #1
   - Kiran Shettar, Week 2, 20-sep-2017, #2
+- Week 3: (Due : 27-sep-2017)
+  - Kiran Shettar, Week 3, 27-sep-2017, #1
+  - Kiran Shettar, Week 3, 27-sep-2017, #2
 ## Other
 - My References
 
