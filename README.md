@@ -1,7 +1,8 @@
 # ComputerGraphics2-COMP5470F2017
 ## Project 
-- Initial Design (Due : 03-oct-2017)
-- Yet to be Added
+- Initial Design ~~(Due : 03-oct-2017)~~ : Waiting for Approval
+  - High Level Design - Diagrams .pdf & .xml file _[Draw Here](https://www.draw.io/)_
+  - Proposal(Detailed)
 ## Papers 
 - Paper 1
   - Title & Short Abstract ~~(Due : 19-sep-2017)~~
@@ -22,6 +23,9 @@
 - Week 3: (Due : 27-sep-2017)
   - Kiran Shettar, Week 3, 27-sep-2017, #1
   - Kiran Shettar, Week 3, 27-sep-2017, #2
+- Week 4: (Due : 04-oct-2017)
+  - Kiran Shettar, Week 3, 04-oct-2017, #1
+  - Kiran Shettar, Week 3, 04-oct-2017, #2
 ## Other
 - My References
 
