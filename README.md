@@ -11,7 +11,7 @@
   - Title & Short Abstract (Due : 24-oct-2017)
   - Complete Paper (Due : 28-nov-2017)
 ## Presentation (In Class)
-- Yet to be Added
+- Microsoft HoloLens
 ## Weekly Bibliography Summaries
 - Week 1: ~~(Due : 13-sep-2017)~~
   - Kiran Shettar, Week 1, 13-sep-2017, #1
@@ -20,12 +20,15 @@
 - Week 2: ~~(Due : 20-sep-2017)~~
   - Kiran Shettar, Week 2, 20-sep-2017, #1
   - Kiran Shettar, Week 2, 20-sep-2017, #2
-- Week 3: (Due : 27-sep-2017)
+- Week 3: ~~(Due : 27-sep-2017)~~
   - Kiran Shettar, Week 3, 27-sep-2017, #1
   - Kiran Shettar, Week 3, 27-sep-2017, #2
 - Week 4: (Due : 04-oct-2017)
-  - Kiran Shettar, Week 3, 04-oct-2017, #1
-  - Kiran Shettar, Week 3, 04-oct-2017, #2
+  - Kiran Shettar, Week 4, 04-oct-2017, #1
+  - Kiran Shettar, Week 4, 04-oct-2017, #2
+- Week 5: (Due : 011-oct-2017)
+  - Kiran Shettar, Week 5, 11-oct-2017, #1
+  - Kiran Shettar, Week 5, 11-oct-2017, #2
 ## Other
 - My References
 
