@@ -1,6 +1,6 @@
 # ComputerGraphics2-COMP5470F2017
 ## Project 
-- Initial Design ~~(Due : 03-oct-2017)~~ : Waiting for Approval
+- Initial Design ~~(Due : 03-oct-2017)~~ : ~~Waiting for Approval~~ : Approved
   - High Level Design - Diagrams .pdf & .xml file _[Draw Here](https://www.draw.io/)_
   - Proposal(Detailed)
 ## Papers 
