@@ -26,9 +26,12 @@
 - Week 4: ~~(Due : 04-oct-2017)~~
   - Kiran Shettar, Week 4, 04-oct-2017, #1
   - Kiran Shettar, Week 4, 04-oct-2017, #2
-- Week 5: (Due : 011-oct-2017)
+- Week 5: ~~(Due : 011-oct-2017)~~
   - Kiran Shettar, Week 5, 11-oct-2017, #1
   - Kiran Shettar, Week 5, 11-oct-2017, #2
+- Week 6: (Due : 018-oct-2017)
+  - Kiran Shettar, Week 5, 18-oct-2017, #1
+  - Kiran Shettar, Week 5, 18-oct-2017, #2
 ## Other
 - My References
 
