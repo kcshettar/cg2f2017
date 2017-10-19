@@ -2,7 +2,8 @@
 ## Project 
 - Initial Design ~~(Due : 03-oct-2017)~~ : ~~Waiting for Approval~~ : Approved
   - High Level Design - Diagrams .pdf & .xml file _[Draw Here](https://www.draw.io/)_
-  - Proposal(Detailed)
+  - Proposal (Detailed)
+  - Unity (Projects Source Code)
 ## Papers 
 - Paper 1
   - Title & Short Abstract ~~(Due : 19-sep-2017)~~
@@ -29,9 +30,12 @@
 - Week 5: ~~(Due : 011-oct-2017)~~
   - Kiran Shettar, Week 5, 11-oct-2017, #1
   - Kiran Shettar, Week 5, 11-oct-2017, #2
-- Week 6: (Due : 18-oct-2017)
+- Week 6: ~~(Due : 18-oct-2017)~~
   - Kiran Shettar, Week 5, 18-oct-2017, #1
   - Kiran Shettar, Week 5, 18-oct-2017, #2
+- Week 7: (Due : 25-oct-2017)
+  - Kiran Shettar, Week 5, 25-oct-2017, #1
+  - Kiran Shettar, Week 5, 25-oct-2017, #2
 ## Other
 - My References
 
