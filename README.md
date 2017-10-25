@@ -31,11 +31,14 @@
   - Kiran Shettar, Week 5, 11-oct-2017, #1
   - Kiran Shettar, Week 5, 11-oct-2017, #2
 - Week 6: ~~(Due : 18-oct-2017)~~
-  - Kiran Shettar, Week 5, 18-oct-2017, #1
-  - Kiran Shettar, Week 5, 18-oct-2017, #2
-- Week 7: (Due : 25-oct-2017)
-  - Kiran Shettar, Week 5, 25-oct-2017, #1
-  - Kiran Shettar, Week 5, 25-oct-2017, #2
+  - Kiran Shettar, Week 6, 18-oct-2017, #1
+  - Kiran Shettar, Week 6, 18-oct-2017, #2
+- Week 7: ~~(Due : 25-oct-2017)~~
+  - Kiran Shettar, Week 7, 25-oct-2017, #1
+  - Kiran Shettar, Week 7, 25-oct-2017, #2
+- Week 8: (Due : 01-nov-2017)
+  - Kiran Shettar, Week 8, 01-nov-2017, #1
+  - Kiran Shettar, Week 8, 01-nov-2017, #2
 ## Other
 - My References
 
