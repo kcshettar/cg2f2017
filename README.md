@@ -9,7 +9,7 @@
   - Title & Short Abstract ~~(Due : 19-sep-2017)~~
   - Complete Paper ~~(Due : 10-oct-2017)~~
 - Paper 2
-  - Title & Short Abstract (Due : 24-oct-2017)
+  - Title & Short Abstract ~~Due : 24-oct-2017)~~
   - Complete Paper (Due : 28-nov-2017)
 ## Presentation (In Class)
 - Microsoft HoloLens
