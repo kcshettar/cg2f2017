@@ -1,4 +1,0 @@
-C:\Users\kcshe\OneDrive\Repository\ComputerGraphics2-COMP5470F2017\Project\Unity\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
-C:\Users\kcshe\OneDrive\Repository\ComputerGraphics2-COMP5470F2017\Project\Unity\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
-C:\Users\kcshe\OneDrive\Repository\ComputerGraphics2-COMP5470F2017\Project\Unity\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
-C:\Users\kcshe\OneDrive\Repository\ComputerGraphics2-COMP5470F2017\Project\Unity\HoloLens\App\HoloLens\HoloLens.csproj;x86
