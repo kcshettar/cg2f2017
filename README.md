@@ -4,7 +4,7 @@
   - High Level Design - Diagrams .pdf & .xml file _[Draw Here](https://www.draw.io/)_
   - Proposal (Detailed)
   - Unity (Projects Source Code)
-- Project Progress Report (Due : 07-nov-2017)
+- Project Progress Report ~~(Due : 07-nov-2017)~~
 ## Papers 
 - Paper 1
   - Title & Short Abstract ~~(Due : 19-sep-2017)~~
