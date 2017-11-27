@@ -47,7 +47,7 @@
 - Week 10: ~~(Due : 15-nov-2017)~~
   - Kiran Shettar, Week 10, 15-nov-2017, #1
   - Kiran Shettar, Week 10, 15-nov-2017, #2
-- Week 11: (Due : 22-nov-2017)
+- Week 11: ~~(Due : 22-nov-2017)~~
   - Kiran Shettar, Week 11, 22-nov-2017, #1
   - Kiran Shettar, Week 11, 22-nov-2017, #2
 - Week 12: (Due : 29-nov-2017)
