@@ -17,7 +17,7 @@
   - Choose the hosting platform as **Remote Machine** to deploy the application
   - Change the build settings to IP-address of the HoloLens device
   - Click on **Debug** and choose **Start Without Debugging** 
-  - Now you can see the Application running on the HoloLens device 
+  - Now you can see the Application running on HoloLens device 
 - Using the application
   - **Requirements:** User should know basic *tap* gestures of HoloLens device
   - Use **Gaze: Head Movement** to navigate and select the object
@@ -37,7 +37,7 @@
   - Change the architecture from **ARM** or **x64** to **x86** in Visual Studio IDE
   - Choose the hosting platform as **HoloLens Emulator v.xxxx** to deploy the application
   - Click on **Debug** and choose **Start Without Debugging** 
-  - Now you can see the Application running on the HoloLens Emulator
+  - Now you can see the Application running on   HoloLens Emulator
 - Using the application
   - Use the keys **W, A, S, D** and **Arrow Keys** to navigate and select the object
   - Hit **Enter** or use **Left Mouse Click** to shoot the ball. The blocks will move on collision
@@ -48,5 +48,5 @@ _[Navigate to YouTube]()_
 
 ## References
 _[Official: Mixed-Reality Development Website](https://developer.microsoft.com/en-us/windows/mixed-reality/development)_
-
+___
 > Author : [Kiran Shettar](https://www.cs.uml.edu/~kshettar)
