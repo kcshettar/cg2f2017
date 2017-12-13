@@ -1,14 +1,14 @@
 # Shoot the Object - HoloLens (User Manual)
-___
+
 ## Setting-up and Using the HoloLens Application 
 
 ### Senario 1: You have a HoloLens device
 - Prerequisites
   - A Windows 10 PC with the _[necessary development tools](https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools)_
 - Project Files & Requirements
-  - Download the _[files]()_ required by the project. Extract the files to an easy to remember location
+  - Download the _[files](https://github.com/kcshettar/cg2f2017/tree/master/Project/Source%20Code)_ required by the project. Extract the files to an easy to remember location
   - This project requires the most recent version of Unity with Mixed Reality support
-  - _[Project Report]()_
+  - _[Project Report](https://github.com/kcshettar/cg2f2017/tree/master/Project/Report)_
 - Running The Application Using Visual Studio and HoloLens Device
   - Connect the HoloLens device to Host machine 
   - Open the downloaded file **HoloLens Unity Project**
@@ -27,9 +27,9 @@ ___
 - Prerequisites
   - A Windows 10 PC with the _[necessary development tools](https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools)_ and _[configured to support a Windows Mixed Reality immersive headset.](https://developer.microsoft.com/en-us/windows/mixed-reality/immersive_headset_setup)
 - Project Files & Requirements
-  - Download the _[files]()_ required by the project. Extract the files to an easy to remember location
+  - Download the _[files](https://github.com/kcshettar/cg2f2017/tree/master/Project/Source%20Code)_ required by the project. Extract the files to an easy to remember location
   - This project requires the most recent version of Unity with Mixed Reality support
-  - _[Project Report]()_
+  - _[Project Report](https://github.com/kcshettar/cg2f2017/tree/master/Project/Report)_
 - Running The Application Using Visual Studio and HoloLens Emulator
   - Open the downloaded file **HoloLens Unity Project**
   - Navigate to **HoloLens Unity Project\App\HoloLens Unity Project.sln** and open the solution using Visual Studio IDE
