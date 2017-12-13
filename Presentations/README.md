@@ -2,5 +2,6 @@
 
 ## Presentation (In Class)
 - Microsoft HoloLens
+- Graphics PipeLine
 ___
 > Author : [Kiran Shettar](https://www.cs.uml.edu/~kshettar)
