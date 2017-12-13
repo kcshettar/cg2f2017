@@ -15,6 +15,7 @@
   - Navigate to **HoloLens Unity Project\App\HoloLens Unity Project.sln** and open the solution using Visual Studio IDE
   - Change the architecture from **ARM** or **x64** to **x86** in Visual Studio IDE
   - Choose the hosting platform as **Remote Machine** to deploy the application
+  - Change the build settings to IP-address of the HoloLens device
   - Click on **Debug** and choose **Start Without Debugging** 
   - Now you can see the Application running on the HoloLens device 
 - Using the application
