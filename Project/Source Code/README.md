@@ -44,7 +44,7 @@
   - Use the voice command **Reset Blocks** to reset the cubes in Application
 
 ## Demo
-_[Navigate to YouTube]()_
+_[Navigate to YouTube](https://youtu.be/QL_5PG3RsJE)_
 
 ## References
 _[Official: Mixed-Reality Development Website](https://developer.microsoft.com/en-us/windows/mixed-reality/development)_
