@@ -8,7 +8,7 @@
 - Project Files & Requirements
   - Download the _[files](https://github.com/kcshettar/cg2f2017/tree/master/Project/Source%20Code)_ required by the project. Extract the files to an easy to remember location
   - This project requires the most recent version of Unity with Mixed Reality support
-  - _[Project Report](https://github.com/kcshettar/cg2f2017/tree/master/Project/Report)_
+  - _[Project Report](https://github.com/kcshettar/cg2f2017/blob/master/Project/Project%20Report/Report.pdf)_
 - Running The Application Using Visual Studio and HoloLens Device
   - Connect the HoloLens device to Host machine 
   - Open the downloaded file **HoloLens Unity Project**
